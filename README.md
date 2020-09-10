@@ -17,12 +17,12 @@ python3 lebrute.py -t anon@gmail.com -p 00000001
 ```
 python3 lebrute.py -t anon@gmail.com -w [wordlist path]
 ```
-# Not tested on many devices. 
+# Note
 ```
-But works on my device
+Not tested on many devices. But works on my device
 ```
-# Rules
+# Check
 ```
-[>] Network should be on
+[>] Internet connection
 [>] Be good
 ```
