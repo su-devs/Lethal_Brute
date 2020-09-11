@@ -6,9 +6,6 @@ Lets you bruteforce facebook without any suspicious login by facebook
 
 # Installation
 ```
-$ pkg install python
-$ pkg install toilet
-$ pip install colorama
 $ git clone https://github.com/g1ng3rb1t3/Lethal_Brute
 $ cd Lethal_Brute
 $ python3 lebrute.py [option]
