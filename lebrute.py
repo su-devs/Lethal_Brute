@@ -1,4 +1,4 @@
-# Obfuscated by Py Compile
+# obfuscated by me
 # by g1ng3rb1t3(kevo)
 
 import zlib,base64
