@@ -12,11 +12,11 @@ $ python3 lebrute.py [option]
 ```
 # Usage example (using one password)
 ```
-python3 lebrute.py -t anon@gmail.com -p 00000001
+python3 lebrute.py -v anon@gmail.com -p 00000001
 ```
 # Usage example (using wordlist)
 ```
-python3 lebrute.py -t anon@gmail.com -w [wordlist path]
+python3 lebrute.py -v anon@gmail.com -w [wordlist path]
 ```
 # Note
 ```
@@ -26,4 +26,11 @@ Not tested on many devices. But works on my device
 ```
 [>] Internet connection
 [>] Be good
+```
+# Keywords
+```
+-v is victim
+-p is single password
+-w is wordlist
+-f is fetch. For getting facebook ID
 ```
