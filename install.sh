@@ -1,5 +1,9 @@
 echo -ne "Press enter to install dependencies> "
 read enter
+pkg install git
+clear
+echo -e "[+] Git installed"
+sleep 1
 pkg install toilet
 clear
 echo -e "[+] toilet installed"
