@@ -1,10 +1,10 @@
 # Lethal_Brute
 Lets you bruteforce facebook without any suspicious login by facebook
 <p align="left">
-  <a><img title="pyto"src="https://img.shields.io/badge/100%25-Python-yellowgreen"></a>
+  <a><img title="pyto"src="https://img.shields.io/badge/89.0%25-Python-yellowgreen"></a>
 </p>
 <p align="left">
-  <a><img title="pyto"src="https://img.shields.io/badge/100%25-Python-yellowgreen"></a>
+  <a><img title="pyto"src="https://img.shields.io/badge/11.0%25-shell-yellowgreen"></a>
 </p>
 
 # Installation
