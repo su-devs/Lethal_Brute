@@ -18,6 +18,13 @@ python3 lebrute.py -v anon@gmail.com -p 00000001
 ```
 python3 lebrute.py -v anon@gmail.com -w [wordlist path]
 ```
+# Usage example getting facebook ID fron url
+```
+$ python lebrute.py -f [victim/target url]
+-------example-------
+$ python lebrute.py -f https://www.facebook.com/g1ng3rb1t3
+```
+
 # Note
 ```
 Not tested on many devices. But works on my device
