@@ -18,11 +18,11 @@ python3 lebrute.py -v anon@gmail.com -p 00000001
 ```
 python3 lebrute.py -v anon@gmail.com -w [wordlist path]
 ```
-# Usage example getting facebook ID fron url
+# Usage example (getting facebook ID from url)
 ```
-$ python lebrute.py -f [victim/target url]
+$ python3 lebrute.py -f [victim/target url]
 -------example-------
-$ python lebrute.py -f https://www.facebook.com/g1ng3rb1t3
+$ python3 lebrute.py -f https://www.facebook.com/g1ng3rb1t3
 ```
 
 # Note
