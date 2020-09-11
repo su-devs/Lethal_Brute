@@ -8,6 +8,8 @@ Lets you bruteforce facebook without any suspicious login by facebook
 ```
 $ git clone https://github.com/g1ng3rb1t3/Lethal_Brute
 $ cd Lethal_Brute
+$ chmod +x install.sh
+$ ./install.sh
 $ python3 lebrute.py [option]
 ```
 # Usage example (using one password)
