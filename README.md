@@ -6,6 +6,18 @@ Lets you bruteforce facebook without any suspicious login by facebook
 <p align="left">
   <a><img title="pyto"src="https://img.shields.io/badge/11.0%25-shell-yellowgreen"></a>
 </p>
+<p align="left">
+  <a><img title="pyto"src="https://img.shields.io/badge/100%25-working-yellowgreen"></a>
+</p>
+<p align="left">
+  <a><img title="pyto"src="https://img.shields.io/badge/100%25-undetectable-yellowgreen"></a>
+</p>
+<p align="left">
+  <a><img title="pyto"src="https://img.shields.io/badge/code-below1mb-bluegreen"></a>
+</p>
+<p align="left">
+  <a><img title="pyto"src="https://img.shields.io/badge/made by-g1ng3rb1t3-bluegreen"></a>
+</p>
 
 # Installation
 ```
