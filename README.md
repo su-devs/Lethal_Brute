@@ -41,7 +41,14 @@ $ python3 lebrute.py -f [victim/target url]
 -------example-------
 $ python3 lebrute.py -f https://www.facebook.com/g1ng3rb1t3
 ```
-
+# Checking for update
+```
+python lebrute.py -check
+```
+# Checking Script info
+```
+python lebrute.py -about
+```
 # Note
 ```
 Not tested on many devices. But works on my device
