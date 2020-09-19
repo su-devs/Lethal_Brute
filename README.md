@@ -57,5 +57,5 @@ Not tested on many devices. But works on my device
 -p is single password
 -w is wordlist
 -f is fetch. For getting facebook ID
--c is check or update. Basically checks for script version
+-c is check or update. Basically checks for script version and updates it if not new version
 ```
