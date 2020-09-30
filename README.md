@@ -11,7 +11,7 @@ Lets you bruteforce facebook without any suspicious login by facebook
 
 # Installation
 ```
-$ git clone https://github.com/Ox41414141Lethal_Brute
+$ git clone https://github.com/Ox41414141/Lethal_Brute
 $ cd Lethal_Brute
 $ chmod +x install.sh
 $ ./install.sh
